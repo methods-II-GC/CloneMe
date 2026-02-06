@@ -1,5 +1,6 @@
 # This is the attendance file.
 Matt Malone
+Aya Dickman
 Michael Alexander-Yang
 Sophie Brown
 Siana Lai
