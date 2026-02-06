@@ -1,9 +1,7 @@
 # This is the attendance file.
-Mei Ying Ki
-Annapia Borraccino
-Chiara Di Maio
-Ariana Maisonet
-Lucas Sass
 Matt Malone
 Astrid Wik Hallaraaker
 Aya Dickman
+Michael Alexander-Yang
+Sophie Brown
+Siana Lai
