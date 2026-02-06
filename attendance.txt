@@ -1,6 +1,5 @@
 # This is the attendance file.
 Matt Malone
-Astrid Wik Hallaraaker
 Michael Alexander-Yang
 Sophie Brown
 Siana Lai
