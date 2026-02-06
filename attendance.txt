@@ -1,5 +1,6 @@
 # This is the attendance file.
 Matt Malone
+Shameed Job
 Maria Maryam
 Aya Dickman
 Michael Alexander-Yang
